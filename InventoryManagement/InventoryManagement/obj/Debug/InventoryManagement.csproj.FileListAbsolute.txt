@@ -1,0 +1,7 @@
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe.config
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.exe
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\bin\Debug\InventoryManagement.pdb
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csprojAssemblyReference.cache
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.exe
+C:\Users\vinay\source\repos\InventoryManagement\InventoryManagement\obj\Debug\InventoryManagement.pdb
